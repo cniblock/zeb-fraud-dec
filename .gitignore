@@ -1,0 +1,31 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment Files
+.env
+venv/
+ENV/
+
+# Data and Models
+/input/casia-dataset/
+/data/
+/datasets/
+*.h5
+*.ckpt
+*.pb
+*.bin
+/checkpoints/
+/checkpoints/**
+
+# Logs
+logs/
+*.log
+
+# OS-specific Files
+.DS_Store
+Thumbs.db

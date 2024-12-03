@@ -1,0 +1,10 @@
+opencv-python==4.8.0.76
+tqdm==4.66.1
+natsort==8.4.0
+scikit-learn==1.2.2
+numpy==1.24.3
+pandas==2.0.3
+seaborn==0.12.2
+matplotlib==3.7.1
+pillow==9.5.0
+tensorflow==2.13.0
